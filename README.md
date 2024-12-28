@@ -1,6 +1,6 @@
 # Controlled Chaos Shifts (CCS)
 
-![](images/rb_52815_500.png)
+![](https://github.com/ControlledChaosShifts/CCS/raw/main/images/rb_52815_500.png)
 
 ### What is CCS?
 
